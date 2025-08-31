@@ -52,12 +52,6 @@ Dedicated section with links to:
 - **Developer** (10) - Development tools and debugging
 - **Specialized** (45) - Domain-specific frameworks
 
-## Technology Stack
-
-- **Next.js 14** - React framework with App Router
-- **TypeScript** - Type-safe development
-- **Tailwind CSS** - Utility-first styling
-- **Responsive Design** - Works on desktop and mobile devices
 
 ## Getting Started
 
@@ -85,23 +79,5 @@ Dedicated section with links to:
 1. **Browse by Category** - Use the sidebar to explore frameworks by category
 2. **Search Frameworks** - Use the search bar to find specific frameworks
 3. **Access Resources** - Click on Docs, WWDC, or News buttons for each framework
-4. **Learn More** - Visit the Learning Resources section for comprehensive guides
 
-## Perfect For
 
-- **iOS Developers** looking for quick framework reference
-- **Students** learning iOS development
-- **Teams** needing a centralized framework reference
-- **Anyone** exploring Apple's development ecosystem
-
-## Contributing
-
-This is a personal reference tool, but suggestions and improvements are welcome. Feel free to open issues or submit pull requests.
-
-## License
-
-This project is for educational and reference purposes. All framework information and links point to official Apple resources.
-
----
-
-**Built for iOS developers, by iOS developers** 🍎📱
